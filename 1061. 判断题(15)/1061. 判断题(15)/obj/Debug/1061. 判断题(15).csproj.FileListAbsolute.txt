@@ -1,0 +1,7 @@
+E:\C#Programs\PAT\1061. 判断题(15)\1061. 判断题(15)\bin\Debug\_1061.判断题_15_.exe.config
+E:\C#Programs\PAT\1061. 判断题(15)\1061. 判断题(15)\bin\Debug\_1061.判断题_15_.exe
+E:\C#Programs\PAT\1061. 判断题(15)\1061. 判断题(15)\bin\Debug\_1061.判断题_15_.pdb
+E:\C#Programs\PAT\1061. 判断题(15)\1061. 判断题(15)\obj\Debug\1061. 判断题(15).csproj.CoreCompileInputs.cache
+E:\C#Programs\PAT\1061. 判断题(15)\1061. 判断题(15)\obj\Debug\_1061.判断题_15_.exe
+E:\C#Programs\PAT\1061. 判断题(15)\1061. 判断题(15)\obj\Debug\_1061.判断题_15_.pdb
+E:\C#Programs\PAT\1061. 判断题(15)\1061. 判断题(15)\obj\Debug\1061. 判断题(15).csprojResolveAssemblyReference.cache

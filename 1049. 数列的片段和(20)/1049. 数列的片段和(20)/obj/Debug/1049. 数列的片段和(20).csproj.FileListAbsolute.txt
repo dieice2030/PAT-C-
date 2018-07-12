@@ -1,0 +1,7 @@
+E:\C#Programs\PAT\1049. 数列的片段和(20)\1049. 数列的片段和(20)\bin\Debug\_1049.数列的片段和_20_.exe.config
+E:\C#Programs\PAT\1049. 数列的片段和(20)\1049. 数列的片段和(20)\bin\Debug\_1049.数列的片段和_20_.exe
+E:\C#Programs\PAT\1049. 数列的片段和(20)\1049. 数列的片段和(20)\bin\Debug\_1049.数列的片段和_20_.pdb
+E:\C#Programs\PAT\1049. 数列的片段和(20)\1049. 数列的片段和(20)\obj\Debug\1049. 数列的片段和(20).csprojResolveAssemblyReference.cache
+E:\C#Programs\PAT\1049. 数列的片段和(20)\1049. 数列的片段和(20)\obj\Debug\1049. 数列的片段和(20).csproj.CoreCompileInputs.cache
+E:\C#Programs\PAT\1049. 数列的片段和(20)\1049. 数列的片段和(20)\obj\Debug\_1049.数列的片段和_20_.exe
+E:\C#Programs\PAT\1049. 数列的片段和(20)\1049. 数列的片段和(20)\obj\Debug\_1049.数列的片段和_20_.pdb

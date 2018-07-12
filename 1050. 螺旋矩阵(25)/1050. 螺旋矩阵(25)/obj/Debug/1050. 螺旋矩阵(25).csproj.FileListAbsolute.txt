@@ -1,0 +1,7 @@
+E:\C#Programs\PAT\1050. 螺旋矩阵(25)\1050. 螺旋矩阵(25)\bin\Debug\_1050.螺旋矩阵_25_.exe.config
+E:\C#Programs\PAT\1050. 螺旋矩阵(25)\1050. 螺旋矩阵(25)\bin\Debug\_1050.螺旋矩阵_25_.exe
+E:\C#Programs\PAT\1050. 螺旋矩阵(25)\1050. 螺旋矩阵(25)\bin\Debug\_1050.螺旋矩阵_25_.pdb
+E:\C#Programs\PAT\1050. 螺旋矩阵(25)\1050. 螺旋矩阵(25)\obj\Debug\1050. 螺旋矩阵(25).csprojResolveAssemblyReference.cache
+E:\C#Programs\PAT\1050. 螺旋矩阵(25)\1050. 螺旋矩阵(25)\obj\Debug\1050. 螺旋矩阵(25).csproj.CoreCompileInputs.cache
+E:\C#Programs\PAT\1050. 螺旋矩阵(25)\1050. 螺旋矩阵(25)\obj\Debug\_1050.螺旋矩阵_25_.exe
+E:\C#Programs\PAT\1050. 螺旋矩阵(25)\1050. 螺旋矩阵(25)\obj\Debug\_1050.螺旋矩阵_25_.pdb

@@ -1,0 +1,7 @@
+E:\C#Programs\PAT\1051. 复数乘法 (15)\1051. 复数乘法 (15)\bin\Debug\_1051.复数乘法__15_.exe.config
+E:\C#Programs\PAT\1051. 复数乘法 (15)\1051. 复数乘法 (15)\bin\Debug\_1051.复数乘法__15_.exe
+E:\C#Programs\PAT\1051. 复数乘法 (15)\1051. 复数乘法 (15)\bin\Debug\_1051.复数乘法__15_.pdb
+E:\C#Programs\PAT\1051. 复数乘法 (15)\1051. 复数乘法 (15)\obj\Debug\1051. 复数乘法 (15).csprojResolveAssemblyReference.cache
+E:\C#Programs\PAT\1051. 复数乘法 (15)\1051. 复数乘法 (15)\obj\Debug\1051. 复数乘法 (15).csproj.CoreCompileInputs.cache
+E:\C#Programs\PAT\1051. 复数乘法 (15)\1051. 复数乘法 (15)\obj\Debug\_1051.复数乘法__15_.exe
+E:\C#Programs\PAT\1051. 复数乘法 (15)\1051. 复数乘法 (15)\obj\Debug\_1051.复数乘法__15_.pdb

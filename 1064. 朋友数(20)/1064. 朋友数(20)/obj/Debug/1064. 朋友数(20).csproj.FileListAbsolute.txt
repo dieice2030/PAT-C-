@@ -1,0 +1,7 @@
+E:\C#Programs\PAT\1064. 朋友数(20)\1064. 朋友数(20)\bin\Debug\_1064.朋友数_20_.exe.config
+E:\C#Programs\PAT\1064. 朋友数(20)\1064. 朋友数(20)\bin\Debug\_1064.朋友数_20_.exe
+E:\C#Programs\PAT\1064. 朋友数(20)\1064. 朋友数(20)\bin\Debug\_1064.朋友数_20_.pdb
+E:\C#Programs\PAT\1064. 朋友数(20)\1064. 朋友数(20)\obj\Debug\1064. 朋友数(20).csprojResolveAssemblyReference.cache
+E:\C#Programs\PAT\1064. 朋友数(20)\1064. 朋友数(20)\obj\Debug\1064. 朋友数(20).csproj.CoreCompileInputs.cache
+E:\C#Programs\PAT\1064. 朋友数(20)\1064. 朋友数(20)\obj\Debug\_1064.朋友数_20_.exe
+E:\C#Programs\PAT\1064. 朋友数(20)\1064. 朋友数(20)\obj\Debug\_1064.朋友数_20_.pdb
